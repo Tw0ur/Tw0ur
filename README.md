@@ -13,10 +13,15 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=Tw0ur&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi there , I`m Amirzhan
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+
+
+
+
 
 ### :man_technologist: About Me :
 I am Frontend Developer from Kazakhstan
@@ -36,8 +41,9 @@ I am Frontend Developer from Kazakhstan
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
 </div>
 
----
 
+
+<!-- ---
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tw0ur&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tw0ur&theme=dark&background=000000)](https://git.io/streak-stats) -->
